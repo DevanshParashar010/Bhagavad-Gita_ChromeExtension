@@ -1,0 +1,11 @@
+{
+  "name": "My Gita Extension",
+  "version": "1.0.0",
+  "description": "First Extension",
+  "manifest_version": 3,
+  "author": "Devansh Parashar",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "My Gita Extension"
+  }
+}
